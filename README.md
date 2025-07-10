@@ -16,5 +16,5 @@
 
 ## 📈 GitHub Stats
 
-![Zaky's GitHub stats](https://github-readme-stats.vercel.app/api?username=zakyy9&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zakyy9&layout=compact&theme=radical)
+![Zaky's GitHub stats](https://github-readme-stats.vercel.app/api?username=zakyy99&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zakyy99&layout=compact&theme=radical)
